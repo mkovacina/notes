@@ -8,8 +8,8 @@ Published: 2016
 Read: September 2019
 
 |!|Page|Notes|
-|:-:||:--:|-----|
-||17|aptitude does not guarantee achievement
+|-|--|-----|
+||17|aptitude does not guarantee achievement|
 ||17|talent is a distraction (from learning to grind)|
 ||17|even the weakest students sounded smart when talking about something of genuine interest|
 ||17|everyone can master any number of complicated ideas (e.g., plot lines, lyrics, basketball) but there needed to be an interest|
